@@ -7,7 +7,7 @@ A imagem de fundo altera toda vez que carrega o site, se tornando bem dinâmico.
 
 O "Previsão do tempo na Web" é um projeto que utiliza a API do OpenWeather para fornecer informações meteorológicas. Ele exibe a temperatura atual, máxima, mínima, descrição do tempo, umidade e um ícone representando as condições meteorológicas.
 
-<img src="images/print.jpg" alt="Screenshot" width="600"/>
+<img src="images/print.jpg" alt="Screenshot" width="100"/>
 
 ## Como Usar
 
